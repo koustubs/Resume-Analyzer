@@ -25,7 +25,7 @@ A simple web application that analyzes resumes and extracts key information usin
    ```
 3. Download the spaCy model:
    ```bash
-   python -m spacy download en_core_web_sm
+   python -m spacy download en_core_web_sm 
    ```
 
 ## Usage
